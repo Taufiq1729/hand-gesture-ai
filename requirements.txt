@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+#torch
+#torchvision
+pyautogui
+#tkinter
+scikit-learn
+Pillow
+pyinstaller
